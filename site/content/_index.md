@@ -1,7 +1,7 @@
 ---
 title: My Portfolio
 subtitle: Created by Harry Reader
-image: /img/home-jumbotron.jpg
+image: img/webp.net-resizeimage.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
