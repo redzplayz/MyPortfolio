@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\layouts",
     "\\static",
     "\\static\\admin"
   ],
-  "SelectedNode": "\\static\\admin\\config.yml",
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }
