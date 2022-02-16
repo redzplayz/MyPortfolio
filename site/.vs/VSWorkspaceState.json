@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\content",
+    "\\content\\values",
     "\\layouts",
     "\\static",
     "\\static\\admin"
   ],
+  "SelectedNode": "\\content\\_index.md",
   "PreviewInSolutionExplorer": false
 }
