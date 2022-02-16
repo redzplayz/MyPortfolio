@@ -1,7 +1,7 @@
 ---
 title: My Portfolio
 subtitle: Created by Harry Reader
-image: img/webp.net-resizeimage.png
+image: img/ue41.png
 blurb:
   heading: Welcome
   text: Hi, I'm Harry a technical designer in my second year at Staffordshire
