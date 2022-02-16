@@ -3,29 +3,33 @@ title: My Portfolio
 subtitle: Created by Harry Reader
 image: img/webp.net-resizeimage.png
 blurb:
-  heading: Harry
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome
+  text: Hi, I'm Harry a technical designer in my second year at Staffordshire
+    University studying Computer Gameplay Design and Production. In this
+    portfolio you can go through all of my current projects I have been working
+    on and also some of my past projects too
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What you can expect to see
+  text: "The engines I work with is Unreal Engine 4/5 and Unity, so you can expect
+    to see my different projects using these engines. In my projects I mainly
+    focus on the programming side of things trying to make intuitive and
+    exciting gameplay. I love developing modular systems because I love the
+    complexity of them. "
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+  - image: img/ue41.png
+    text: Here is my Unreal Engine 4 project from last semester where we had to make
+      a game centred around pawn switching, therefore i developed a open world
+      mad max inspired car game. In it you can drive different cars and
+      customise them with different parts which you can put on and take off the
+      car.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Here is a project which I'm still developing for university called
+      Combine, it is a 1st person shooter developed in unity. In the game you
+      will have realistic firing mechanics with recoil, aiming down sights and
+      in world scopes. These features are already in the game, next i will be
+      developing a modular weapon system where you will be able to change every
+      part of the gun which will effect the weapons stats and feel using a
+      PCG(procedural content generation system).
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
