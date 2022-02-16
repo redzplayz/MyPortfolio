@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: Stoke-On-Trent
 ---
-I'd love to hear from you about any questions you have about my projects or for freelance requests
+I'd love to hear from you about any questions you have about my projects or for freelance requests.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
