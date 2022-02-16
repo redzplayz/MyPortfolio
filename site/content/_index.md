@@ -22,7 +22,7 @@ products:
       mad max inspired car game. In it you can drive different cars and
       customise them with different parts which you can put on and take off the
       car.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/unity2.png
     text: Here is a project which I'm still developing for university called
       Combine, it is a 1st person shooter developed in unity. In the game you
       will have realistic firing mechanics with recoil, aiming down sights and
