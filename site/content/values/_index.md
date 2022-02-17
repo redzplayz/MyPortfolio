@@ -9,7 +9,7 @@ intro:
   heading: What you can find on this page
   description: On this page you can see a showcase of all of my projects which i
     have worked on in the past or am currently working on
-full_image: /img/products-full-width.jpg
+full_image: img/pp.jpg
 testimonials: []
 main:
   heading: Great coffee with no compromises
