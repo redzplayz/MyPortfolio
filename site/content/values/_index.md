@@ -1,7 +1,7 @@
 ---
 title: About me
 image: img/webp.net-resizeimage.png
-values:[
+values:
 	About:
 	  - heading: Who am I?
 		text: |
@@ -21,5 +21,5 @@ values:[
 		  with D*D*D* and went to Staffordshire University to learn even more about
 		  game development '
 		imageUrl: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stokesentinel.co.uk%2Fnews%2Fstoke-on-trent-news%2Fstaffordshire-universitys-ian-blachford-cautious-6003364&psig=AOvVaw3d3lvkH3x6IRs0xWiyzgt3&ust=1645187529709000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjsrqjfhvYCFQAAAAAdAAAAABAD
-]
+
 ---
