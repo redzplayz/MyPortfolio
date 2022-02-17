@@ -2,13 +2,13 @@
 title: About me
 image: img/webp.net-resizeimage.png
 values:
- about:
-  - heading: Who am I?
+ -about:
+  -heading: Who am I?
    text: Name - Harry Reader
    Age - 19
    Job Title - Technical designer
    imageUrl: img/pp.jpg
-  - heading: My History
+  -heading: My History
    text: 'I started learning about game development in year 7 of high school where
    made my first "game" in scratch which was a 2 player top down racing
    game, this sparked my interest into games and as i grew up  through high
