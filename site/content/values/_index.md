@@ -2,7 +2,7 @@
 title: About me
 image: img/webp.net-resizeimage.png
 values: []
-	About:
+	about:
 	  - heading: Who am I?
 		text: |
 		  Name - Harry Reader
