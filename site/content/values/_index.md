@@ -2,7 +2,7 @@
 title: About me
 image: img/webp.net-resizeimage.png
 values:
- -about:
+ About:
   -heading: Who am I?
    text: Name - Harry Reader
    Age - 19
