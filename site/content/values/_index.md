@@ -16,4 +16,7 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1: img/pp.jpg
+products:
+  - image: img/pp.jpg
+    text: Me
 ---
