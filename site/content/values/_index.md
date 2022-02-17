@@ -19,4 +19,6 @@ main:
 products:
   - image: img/pp.jpg
     text: Me
+  - image: img/icons-instagram.svg
+    text: sadwasdw
 ---
