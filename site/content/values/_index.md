@@ -17,6 +17,18 @@ main:
     optimal for the plants, farmers and the local environment.
   image1: img/pp.jpg
 products:
-  - image: img/pp.jpg
-    text: Me
+  - image: img/ue41.png
+    text: Here is my Unreal Engine 4 project from last semester where we had to make
+      a game centred around pawn switching, therefore i developed a open world
+      mad max inspired car game. In it you can drive different cars and
+      customise them with different parts which you can put on and take off the
+      car.
+  - image: img/unity2.png
+    text: Here is a project which I'm still developing for university called
+      Combine, it is a 1st person shooter developed in unity. In the game you
+      will have realistic firing mechanics with recoil, aiming down sights and
+      in world scopes. These features are already in the game, next i will be
+      developing a modular weapon system where you will be able to change every
+      part of the gun which will effect the weapons stats and feel using a
+      PCG(procedural content generation system).
 ---
