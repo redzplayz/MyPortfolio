@@ -1,7 +1,7 @@
 ---
 title: About me
 image: img/webp.net-resizeimage.png
-values: 
+values: []
 	About:
 	  - heading: Who am I?
 		text: |
