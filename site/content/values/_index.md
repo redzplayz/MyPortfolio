@@ -1,6 +1,6 @@
 ---
-title: My Projects
-image: img/ue42.png
+title: About me
+image: img/webp.net-resizeimage.png
 heading: What you can find on this page
 description: On this page you can see a showcase of all of my projects which i
   have worked on in the past or am currently working on
@@ -9,6 +9,8 @@ intro:
   heading: What you can find on this page
   description: On this page you can see a showcase of all of my projects which i
     have worked on in the past or am currently working on
+full_image: /img/products-full-width.jpg
+testimonials: []
 main:
   heading: Great coffee with no compromises
   description: >
@@ -25,7 +27,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
-full_image: /img/products-full-width.jpg
 type: products
 ---
