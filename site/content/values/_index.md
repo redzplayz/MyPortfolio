@@ -47,11 +47,11 @@ main:
     image: img/pp.jpg
     alt: Me
   image2:
-    image: img/pp.jpg
-    alt: Also Me
+    image: img/img-20210605-wa0001.jpg
+    alt: My Dog
   image3:
-    image: img/pp.jpg
-    alt: Also me
+    image: img/ue41-copy.png
+    alt: My Favourite Scene
 full_image: img/webp.net-resizeimage.png
 subtitle: Created by Harry Reader
 blurb:
