@@ -13,7 +13,8 @@ full_image: /img/products-full-width.jpg
 testimonials: []
 main:
   heading: My Projects
-  description: "\n"
+  description: |
+    sdsa
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
