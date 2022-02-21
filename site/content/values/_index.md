@@ -6,9 +6,10 @@ values:
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 title: About me
-image: img/ue41-copy.png
-heading: asdsad
-description: sadasdsa
+image: img/webp.net-resizeimage.png
+heading: Who am I?
+description: My Name is Harry Reader and I'm currently in my second year at
+  Staffordshire university studying computer gameplay design and production
 intro:
   heading: What you can expect to see
   text: "The engines I work with is Unreal Engine 4/5 and Unity, so you can expect
