@@ -14,15 +14,15 @@ testimonials: []
 main:
   heading: My Projects
   description: |
-    sdsa
+    Here are a collection of my projects that i am working on
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/ue41.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/unity1.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/unity4.png
 type: products
 ---
