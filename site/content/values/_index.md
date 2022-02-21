@@ -11,13 +11,14 @@ heading: Who am I?
 description: My Name is Harry Reader and I'm currently in my second year at
   Staffordshire university studying computer gameplay design and production
 intro:
-  heading: What you can expect to see
+  heading: Who am I?
   text: "The engines I work with is Unreal Engine 4/5 and Unity, so you can expect
     to see my different projects using these engines. In my projects I mainly
     focus on the programming side of things trying to make intuitive and
     exciting gameplay. I love developing modular systems because I love the
     complexity of them. "
-  description: sadsd
+  description: My Name is Harry Reader and I'm currently in my second year at
+    Staffordshire university studying computer gameplay design and production
 products:
   - image: img/ue41.png
     text: Here is my Unreal Engine 4 project from last semester where we had to make
