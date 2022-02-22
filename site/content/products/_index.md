@@ -40,7 +40,7 @@ secondary:
     plan to use a PCG(procedural content generation) system for and then in
     world UI to allow the player to customise their weapons."
   image1:
-    image: img/unity1.png
+    image: img/gameplay_of_combine.webp
     alt: Gun
   image2:
     image: img/unity2.png
