@@ -4,6 +4,8 @@
     "\\content",
     "\\content\\values",
     "\\layouts",
+    "\\layouts\\partials",
+    "\\layouts\\section",
     "\\static",
     "\\static\\admin"
   ],
