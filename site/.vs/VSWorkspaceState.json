@@ -4,11 +4,10 @@
     "\\content",
     "\\content\\values",
     "\\layouts",
-    "\\layouts\\partials",
     "\\layouts\\section",
     "\\static",
     "\\static\\admin"
   ],
-  "SelectedNode": "\\static\\admin\\config.yml",
+  "SelectedNode": "\\layouts\\section\\products.html",
   "PreviewInSolutionExplorer": false
 }
