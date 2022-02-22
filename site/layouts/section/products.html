@@ -30,7 +30,9 @@
         <p>{{ .description }}</p>
     </div>
 </div>
+
 <a href="{{ .Params.project_file }}" download>
+    <img src="{{ .Params.full_image }}" alt="" />
 </a>
 <!-- Image grid -->
 {{ partial "image-grid" . }}
