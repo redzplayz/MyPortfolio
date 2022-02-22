@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\site",
+    "\\site\\content",
+    "\\site\\content\\products",
+    "\\site\\layouts",
+    "\\site\\layouts\\section",
+    "\\site\\static",
+    "\\site\\static\\admin",
+    "\\site\\static\\ProjectUploads"
   ],
+  "SelectedNode": "\\site\\static\\admin\\config.yml",
   "PreviewInSolutionExplorer": false
 }
