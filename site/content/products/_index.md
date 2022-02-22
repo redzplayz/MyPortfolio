@@ -28,6 +28,7 @@ main:
   image3:
     alt: Vehicle parts
     image: img/ue4gif3.webp
+manual_pdf: img/unity3.png
 secondary:
   heading: Year 2 Unity Project (Combine)
   description: "For my Unity module this year i decided to develop a FPS which
