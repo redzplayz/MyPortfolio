@@ -8,17 +8,6 @@ values:
 title: About me
 image: img/webp.net-resizeimage.png
 heading: Who am I?
-description: My Name is Harry Reader and I'm currently in my second year at
-  Staffordshire university studying computer gameplay design and production
-intro:
-  heading: Who am I?
-  text: "The engines I work with is Unreal Engine 4/5 and Unity, so you can expect
-    to see my different projects using these engines. In my projects I mainly
-    focus on the programming side of things trying to make intuitive and
-    exciting gameplay. I love developing modular systems because I love the
-    complexity of them. "
-  description: My Name is Harry Reader and I'm currently in my second year at
-    Staffordshire university studying computer gameplay design and production
 products:
   - image: img/ue41.png
     text: Here is my Unreal Engine 4 project from last semester where we had to make
@@ -34,6 +23,36 @@ products:
       developing a modular weapon system where you will be able to change every
       part of the gun which will effect the weapons stats and feel using a
       PCG(procedural content generation system).
+description: My Name is Harry Reader and I'm currently in my second year at
+  Staffordshire university studying computer gameplay design and production
+intro:
+  heading: Who am I?
+  text: "The engines I work with is Unreal Engine 4/5 and Unity, so you can expect
+    to see my different projects using these engines. In my projects I mainly
+    focus on the programming side of things trying to make intuitive and
+    exciting gameplay. I love developing modular systems because I love the
+    complexity of them. "
+  description: My Name is Harry Reader and I'm currently in my second year at
+    Staffordshire university studying computer gameplay design and production
+main:
+  heading: How I got started in games?
+  description: When i was in year 7 in high school i started experiments with
+    making games in scratch and i was hooked then as i grew up i learnt more
+    engines, in year 9 it was game maker, in year 10 unity then when I went to
+    college i started to learn Unreal Engine 4. Throughout this time I learnt
+    that i loved programming and designing and then making those mechanics come
+    to life. I was never an artist but I feel like creating these mechanics was
+    my form of art.
+  image1:
+    image: img/pp.jpg
+    alt: Me
+  image2:
+    image: img/img-20210605-wa0001.jpg
+    alt: My Dog
+  image3:
+    image: img/ue41-copy.png
+    alt: My Favourite Scene
+full_image: img/webp.net-resizeimage.png
 subtitle: Created by Harry Reader
 blurb:
   heading: Welcome
