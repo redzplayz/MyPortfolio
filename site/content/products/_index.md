@@ -21,13 +21,13 @@ main:
     landscape.
   image1:
     alt: Scene
-    image: img/ue41.png
+    image: img/ue4gif2.webp
   image2:
     alt: "Car Collection "
-    image: img/ue42.png
+    image: img/ue4gif1.webp
   image3:
     alt: Vehicle parts
-    image: img/ue44.png
+    image: img/ue4gif3.webp
 secondary:
   heading: Year 2 Unity Project (Combine)
   description: "For my Unity module this year i decided to develop a FPS which
