@@ -21,13 +21,13 @@ main:
     landscape.
   image1:
     alt: Scene
-    image: img/ue41.png
+    image: img/ue4gif2.webp
   image2:
     alt: "Car Collection "
-    image: img/ue42.png
+    image: img/ue4gif1.webp
   image3:
     alt: Vehicle parts
-    image: img/ue44.png
+    image: img/ue4gif3.webp
 secondary:
   heading: Year 2 Unity Project (Combine)
   description: "For my Unity module this year i decided to develop a FPS which
@@ -40,7 +40,7 @@ secondary:
     plan to use a PCG(procedural content generation) system for and then in
     world UI to allow the player to customise their weapons."
   image1:
-    image: img/unity1.png
+    image: img/gameplay_of_combine.webp
     alt: Gun
   image2:
     image: img/unity2.png
